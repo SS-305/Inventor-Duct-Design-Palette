@@ -1,0 +1,60 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style BasedOn="{StaticResource {x:Type ToggleButton}}" TargetType="{x:Type RadioButton}"
+           x:Key="MenuButtonTheme">
+        <Setter Property="Margin" Value="0,0,0,0"/>
+        <Setter Property="Foreground" Value="Navy"/>
+            <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Width" Value="30"/>
+        <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type RadioButton}">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderThickness="0,0,0,2"
+                                BorderBrush="{TemplateBinding BorderBrush}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Background" Value="#ffdbae"/>
+                <Setter Property="Margin" Value="0,0,0,0"/>
+                <Setter Property="Foreground" Value="#00098c"/>
+                <Setter Property="BorderBrush" Value="#00098c"/>
+                <Setter Property="Height" Value="30"/>
+                <Setter Property="Width" Value="30"/>
+            </Trigger>
+            <Trigger Property="IsChecked" Value="True">
+                <Setter Property="Background" Value="#ff8c7b"/>
+                <Setter Property="Margin" Value="0,0,0,0"/>
+                <Setter Property="Foreground" Value="#9ebaf8"/>
+                <Setter Property="BorderBrush" Value="#9ebaf8"/>
+                <Setter Property="Height" Value="30"/>
+                <Setter Property="Width" Value="30"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style x:Key="MenuButtonText" TargetType="TextBlock">
+        <Setter Property="Foreground" Value="{Binding Path=Tag, RelativeSource={RelativeSource AncestorType=RadioButton}}"/>
+        <Setter Property="FontFamily" Value="Montseerat"/>
+        <Setter Property="FontSize" Value="12"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+    </Style>
+
+    <Style x:Key="MenuButtonToolTip" TargetType="ToolTip">
+        <Setter Property="Foreground" Value="Navy"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="ToolTip">
+                    <Border Background="#fdff80">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>
