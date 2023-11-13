@@ -21,3 +21,26 @@ D:\SHUBHAM\APIs\INVENTOR\Version 2\DuctPalletteDesign\DuctPalletteDesign\obj\Deb
 D:\SHUBHAM\APIs\INVENTOR\Version 2\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\MVVM\View\DrawingDetails.g.cs
 D:\SHUBHAM\APIs\INVENTOR\Version 2\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\MVVM\View\DrawingDetails.baml
 D:\SHUBHAM\APIs\INVENTOR\Version 2\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\bin\Debug\DuctPalletteDesign.exe.config
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\bin\Debug\DuctPalletteDesign.exe
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\bin\Debug\DuctPalletteDesign.pdb
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\DuctPalletteDesign.csproj.AssemblyReference.cache
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\Theme\GenericComboBox.baml
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\Theme\GenericTextBox.baml
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\Theme\NormalTextBlock.baml
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\MainWindow.g.cs
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\MVVM\View\DrawingDetails.g.cs
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\App.g.cs
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\DuctPalletteDesign_MarkupCompile.cache
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\DuctPalletteDesign_MarkupCompile.lref
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\App.baml
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\MainWindow.baml
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\MVVM\View\DrawingDetails.baml
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\DuctPalletteDesign.g.resources
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\DuctPalletteDesign.Properties.Resources.resources
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\DuctPalletteDesign.csproj.GenerateResource.cache
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\DuctPalletteDesign.csproj.CoreCompileInputs.cache
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\DuctPalletteDesign.exe
+C:\Users\SAURABH SALVI\OneDrive\Desktop\Git Project\DuctPalletteDesign\DuctPalletteDesign\obj\Debug\DuctPalletteDesign.pdb
